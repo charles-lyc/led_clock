@@ -1,0 +1,18 @@
+### Module positions - created on 03/16/21 21:10:05 ###
+### Printed by Pcbnew version kicad (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                           PosX       PosY       Rot  Side
+C8        10uF      C_0805_2012Metric              46.9972   -58.5704  180.0000  bottom
+C9        10uF      C_0805_2012Metric              67.0124   -58.5704  180.0000  bottom
+C11       10uF      C_0805_2012Metric              87.0276   -58.5704  180.0000  bottom
+C12       10uF      C_0805_2012Metric             107.0428   -58.5704  180.0000  bottom
+R9        10k       R_0805_2012Metric              51.8232   -58.5704    0.0000  bottom
+R12       10k       R_0805_2012Metric              71.8384   -58.5704    0.0000  bottom
+R13       10k       R_0805_2012Metric              91.8536   -58.5704    0.0000  bottom
+R14       10k       R_0805_2012Metric             111.8688   -58.5704    0.0000  bottom
+U5        MAX7219   SOIC-24W_7.5x15.4mm_P1.27mm    49.1816   -49.2740  270.0000  bottom
+U8        MAX7219   SOIC-24W_7.5x15.4mm_P1.27mm    69.1968   -49.2740  270.0000  bottom
+U10       MAX7219   SOIC-24W_7.5x15.4mm_P1.27mm    89.2120   -49.2740  270.0000  bottom
+U12       MAX7219   SOIC-24W_7.5x15.4mm_P1.27mm   109.2272   -49.2740  270.0000  bottom
+## End
