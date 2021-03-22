@@ -8,6 +8,8 @@
 #include <time.h>
 #include <ArduinoOTA.h>
 #include <ESP8266WebServer.h>
+#include <Adafruit_SHTC3.h>
+
 
 ESP8266WiFiMulti WifiMulti;
 ESP8266WebServer Server(80);
